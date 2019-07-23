@@ -1,0 +1,11 @@
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\bin\Debug\netcoreapp2.1\SHA256__MD5.deps.json
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\bin\Debug\netcoreapp2.1\SHA256__MD5.runtimeconfig.json
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\bin\Debug\netcoreapp2.1\SHA256__MD5.runtimeconfig.dev.json
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\bin\Debug\netcoreapp2.1\SHA256__MD5.dll
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\bin\Debug\netcoreapp2.1\SHA256__MD5.pdb
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\obj\Debug\netcoreapp2.1\SHA256__MD5.csprojAssemblyReference.cache
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\obj\Debug\netcoreapp2.1\SHA256__MD5.csproj.CoreCompileInputs.cache
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\obj\Debug\netcoreapp2.1\SHA256__MD5.AssemblyInfoInputs.cache
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\obj\Debug\netcoreapp2.1\SHA256__MD5.AssemblyInfo.cs
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\obj\Debug\netcoreapp2.1\SHA256__MD5.dll
+C:\Users\жук\source\repos\SHA256__MD5\SHA256__MD5\obj\Debug\netcoreapp2.1\SHA256__MD5.pdb
