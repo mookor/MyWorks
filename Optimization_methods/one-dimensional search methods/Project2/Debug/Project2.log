@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\жук\source\repos\project2\project2\source.cpp(17): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\жук\source\repos\project2\project2\source.cpp(85): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\жук\source\repos\project2\project2\source.cpp(88): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\жук\source\repos\project2\project2\source.cpp(90): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\жук\source\repos\project2\project2\source.cpp(102): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+c:\users\жук\source\repos\project2\project2\source.cpp(111): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Project2.vcxproj -> C:\Users\жук\source\repos\Project2\Debug\Project2.exe
