@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\жук\source\repos\internal combustion engine\internal combustion engine\header.h(13): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\жук\source\repos\internal combustion engine\internal combustion engine\header.h(14): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\жук\source\repos\internal combustion engine\internal combustion engine\header.h(16): warning C4305: инициализация: усечение из "double" в "float"
+c:\users\жук\source\repos\internal combustion engine\internal combustion engine\source.cpp(5): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\жук\source\repos\internal combustion engine\internal combustion engine\header.h(51): warning C4715: engine::moment: значение возвращается не при всех путях выполнения
+  internal combustion engine.vcxproj -> C:\Users\жук\source\repos\internal combustion engine\Debug\internal combustion engine.exe
