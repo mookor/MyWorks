@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\жук\source\repos\copy\copy\source.cpp(38): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\жук\source\repos\copy\copy\source.cpp(52): warning C4101: x: неиспользованная локальная переменная
+  copy.vcxproj -> C:\Users\жук\source\repos\copy\Debug\copy.exe
